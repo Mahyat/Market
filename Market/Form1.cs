@@ -12,6 +12,7 @@ namespace Market
 {
     public partial class Form1 : Form
     {
+        int x = 10;
         public Form1()
         {
             InitializeComponent();
